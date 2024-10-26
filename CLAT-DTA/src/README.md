@@ -1,6 +1,6 @@
 # Fuzzy-DDI
 
-![CLAT-DTA](C:\Users\ZhangYu\Documents\WeChat Files\wxid_sti8r5r7j0gz22\FileStorage\File\2024-10\CLAT-DTA.png)
+![CLAT-DTA](https://github.com/zhanggit001/CLAT-DTA/blob/master/CLAT-DTA/src/CLAT-DTA.png))
 
 **This is the data and code for our paper** `CLAT-DTA: A Collaborative Attention-based Approach for Drug-traget Binding Affinity Prediction`.
 

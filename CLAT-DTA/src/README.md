@@ -17,7 +17,7 @@ We provide the dataset in the [data](data/) folder.
 
 | Data | Description |
 | --- | --- |
-| [Davis](data/) | A drug-target interaction network between  68 drugs with 442 targets interactions. |
+| [Davis](CLAT-DTA/data/) | A drug-target interaction network between  68 drugs with 442 targets interactions. |
 | [KIBA](data/KIBA/) | A drug-drug interaction network betweeen 2,111 drugs with 229 targets interactions. |
 
 ## Documentation

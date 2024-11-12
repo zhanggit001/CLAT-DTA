@@ -14,7 +14,7 @@ Make sure your local environment has the following installed:
 ## Datastes
 
 We provide the dataset in the [data](data/) folder.
-We provide The.npz datasets in the [website](https://pan.baidu.com/s/1JFSGPGy-_dX7eqW4z2Uq0g?pwd=k9uz/).
+We provide The.npz files in the [website](https://pan.baidu.com/s/1JFSGPGy-_dX7eqW4z2Uq0g?pwd=k9uz/).
 
 | Data | Description |
 | --- | --- |

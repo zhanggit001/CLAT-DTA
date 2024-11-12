@@ -60,5 +60,5 @@ validating.py
 ## Authors
 
 ** Yu Zhang** @github.com/zhanggit001 
-**Email:** zhangyyy2023@163.com 
+**Email:** zhangyu012@dlmu.edu.cn
 **Site:** [GitHub](https://github.com/zhanggit001)
